@@ -1,3 +1,6 @@
+### Escrevendo as classes de um Jogo
+Entrega do projeto 03 do curso de Lógica de programação da DIO.me
+
 
 ## O Que foi utilizado:
 
